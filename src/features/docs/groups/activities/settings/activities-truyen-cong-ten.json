@@ -1,0 +1,7 @@
+{
+  "group": "activities",
+  "section": "Truyền công",
+  "label": "Tên",
+  "tip": "Cách nhau dấu phẩy. Ví dụ: nsnd-vanbip, nsnd-bimbip",
+  "kind": "text"
+}

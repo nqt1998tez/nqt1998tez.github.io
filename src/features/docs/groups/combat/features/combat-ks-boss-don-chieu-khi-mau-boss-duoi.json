@@ -1,0 +1,7 @@
+{
+  "group": "combat",
+  "section": "KS Boss",
+  "label": "Dồn chiêu khi máu boss dưới",
+  "tip": "Phải nhỏ hơn mức giữ chiêu.",
+  "kind": "number"
+}

@@ -1,0 +1,7 @@
+{
+  "group": "utility",
+  "section": "Phúc lợi",
+  "label": "Ủy Thác Kinh Nghiệm",
+  "tip": "Tự nhận kinh nghiệm ủy thác (nhận loại nào thì mất loại khác). Cao Cấp dùng Bạch Câu Hoàn-Cao, Hoàn Mỹ dùng Bạch Câu Hoàn-Hoàn Mỹ. Thiếu viên mà không dùng Nguyên Bảo thì nhận Miễn Phí. Nhân vật chưa mở Hoàn Mỹ thì tính như Cao Cấp.",
+  "kind": "choice"
+}

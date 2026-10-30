@@ -1,0 +1,7 @@
+{
+  "group": "display",
+  "section": "Màn hình",
+  "label": "Tầm nhìn",
+  "tip": "Kéo xa góc nhìn để thấy rộng hơn. Mặc định là mức của game.",
+  "kind": "choice"
+}

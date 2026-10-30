@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Mời và duyệt",
+  "label": "Tự đồng ý duyệt vào đội",
+  "tip": "Khi là đội trưởng và đội chưa đủ 4: tự duyệt đơn xin vào của người ngoài PT cứng. Người trong PT cứng luôn được duyệt.",
+  "kind": "choice"
+}

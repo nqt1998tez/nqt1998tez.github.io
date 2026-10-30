@@ -1,0 +1,7 @@
+{
+  "group": "combat",
+  "section": "Thứ tự chiêu",
+  "label": "Khi PK",
+  "tip": "Đây cũng là thiết lập chiêu tự đánh của game. Kéo để đổi thứ tự, bỏ tick thì không dùng chiêu đó. Chiêu số 1–4 theo ô kỹ năng của phái.",
+  "kind": "skill-order"
+}

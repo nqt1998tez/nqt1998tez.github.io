@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Mời và duyệt",
+  "label": "Nhận lệnh PM mật từ thành viên khác",
+  "tip": "Ai nhắn mật /pt cho bạn thì mời người đó vào đội và nhắn lại /vaopt (như SmartPK).",
+  "kind": "choice"
+}

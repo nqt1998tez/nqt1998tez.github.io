@@ -1,0 +1,7 @@
+{
+  "group": "activities",
+  "section": "Truyền công",
+  "label": "Tự ngồi thiền khi không có người truyền công (00h00 - 03h50)",
+  "tip": "Còn lượt nhận truyền công thì tạm dừng train, vào lãnh địa bang, ngồi thiền ở Quản Lý Bang Hội tới hết lượt rồi về bãi. Ngồi thiền tốn lượt nhận, EXP ít hơn truyền công.",
+  "kind": "toggle"
+}

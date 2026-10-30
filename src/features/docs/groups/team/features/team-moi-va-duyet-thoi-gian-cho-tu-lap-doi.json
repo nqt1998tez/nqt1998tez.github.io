@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Mời và duyệt",
+  "label": "Thời gian chờ tự lập đội",
+  "tip": "Đang LC mà không có đội liên tục chừng này thì tự lập đội (PT cứng: đội trưởng chờ chừng này sau khi vào map rồi mới lập). 0 = không tự lập đội.",
+  "kind": "number"
+}

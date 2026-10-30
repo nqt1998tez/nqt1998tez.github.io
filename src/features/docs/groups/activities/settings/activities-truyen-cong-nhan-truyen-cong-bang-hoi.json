@@ -1,0 +1,7 @@
+{
+  "group": "activities",
+  "section": "Truyền công",
+  "label": "Nhận truyền công bang hội",
+  "tip": "Người trong bang được xin truyền công. Giới hạn cấp: từ cấp đã nhập trở lên. Theo danh sách: tên cách nhau dấu phẩy, gõ đủ tên, không cần dấu và hoa thường.",
+  "kind": "choice"
+}

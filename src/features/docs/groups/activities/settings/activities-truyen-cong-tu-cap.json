@@ -1,0 +1,7 @@
+{
+  "group": "activities",
+  "section": "Truyền công",
+  "label": "Từ cấp",
+  "tip": "Chỉ xin người có cấp từ số này trở lên.",
+  "kind": "number"
+}

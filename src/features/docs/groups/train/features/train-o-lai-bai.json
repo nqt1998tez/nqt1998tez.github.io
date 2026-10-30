@@ -1,0 +1,8 @@
+{
+  "id": "train-o-lai-bai",
+  "group": "train",
+  "section": "Khi đủ {v} lửa trại",
+  "label": "Ở lại bãi",
+  "tip": "Không rời bãi, kể cả khi hết quái.",
+  "kind": "toggle"
+}

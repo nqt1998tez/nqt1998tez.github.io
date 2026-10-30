@@ -1,0 +1,8 @@
+{
+  "id": "train-du-lua-trai-khi-co",
+  "group": "train",
+  "section": "Lửa trại",
+  "label": "Đủ lửa trại khi có",
+  "tip": "Số lửa trại trong vòng đánh để tính là đủ. Các việc bên dưới chỉ làm khi đủ mức này.",
+  "kind": "number"
+}

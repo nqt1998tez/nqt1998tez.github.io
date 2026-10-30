@@ -1,0 +1,11 @@
+import {useState} from "react";
+import {Menu,X,LogIn} from "lucide-react";
+import {Button} from "../ui";
+import Logo from "./Logo";
+import Home from "../home/HomePage";
+import Docs from "../../features/docs/DocsPage";
+import Login from "../../features/auth/LoginPage";
+import Account from "../../features/account/AccountPage";
+import {useHashPage} from "../../hooks/useHashPage";
+import type {Page} from "../../data/guide/types";
+export default function SiteLayout(){const [page,go]=useHashPage();const [mobile,setMobile]=useState(false);const links:[Page,string][]=[["home","Trang chủ"],["docs","Hướng dẫn"],["account","Quản lý nhân vật"]];return <div className="min-h-screen bg-background text-white"><header className="sticky top-0 z-30 border-b border-white/10 bg-[#0b1222]/95 backdrop-blur-xl"><div className="mx-auto flex h-[68px] max-w-7xl items-center justify-between px-4 sm:px-6 md:h-[76px] lg:px-8"><button aria-label="Trang chủ" onClick={()=>go("home")}><Logo/></button><nav className="hidden items-center gap-2 md:flex">{links.map(([p,t])=><button key={p} className={"nav-link text-sm "+(page===p?"active":"")} onClick={()=>go(p)}>{t}</button>)}</nav><div className="hidden md:block"><Button size="sm" variant="outline" onClick={()=>go("login")}><LogIn size={16}/> Đăng nhập</Button></div><Button variant="ghost" size="icon" className="md:hidden" aria-label="Menu" onClick={()=>setMobile(!mobile)}>{mobile?<X/>:<Menu/>}</Button></div>{mobile&&<nav className="max-h-[calc(100dvh-68px)] overflow-y-auto border-t border-white/10 px-4 py-3 md:hidden">{[...links,["login","Đăng nhập"] as [Page,string]].map(([p,t])=><button key={p} className="nav-link block w-full text-left" onClick={()=>{go(p);setMobile(false)}}>{t}</button>)}</nav>}</header>{page==="home"?<Home go={go}/>:page==="docs"?<Docs/>:page==="account"?<Account go={go}/>:<Login go={go}/>}<footer className="border-t border-white/10"><div className="mx-auto flex max-w-7xl flex-col justify-between gap-4 px-5 py-9 text-xs text-slate-400 sm:flex-row lg:px-8"><span>Agent Auto · Tài liệu Kiếm Thế Origin</span><span>Agent Auto không thu thập, lưu trữ hoặc gửi tài khoản và mật khẩu game về máy chủ Agent Auto.</span></div></footer></div>}

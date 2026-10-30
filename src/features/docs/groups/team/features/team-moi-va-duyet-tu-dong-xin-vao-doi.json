@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Mời và duyệt",
+  "label": "Tự động xin vào đội",
+  "tip": "Khi chưa có đội: tự xin vào đội. Thành viên trong danh sách: xin vào đội của đội trưởng PT cứng. Hảo hữu / Cùng bang: xin vào đội của người đó đang thấy được, xin lại cùng một người sau 60 giây.",
+  "kind": "choice"
+}

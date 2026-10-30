@@ -1,0 +1,8 @@
+{
+  "id": "train-chuyen-bai-sau-khi-het-quai",
+  "group": "train",
+  "section": "Rời bãi",
+  "label": "Chuyển bãi sau khi hết quái",
+  "tip": "Bãi hết quái thì chờ chừng này rồi mới sang bãi kế. 1000 mili giây = 1 giây.",
+  "kind": "number"
+}

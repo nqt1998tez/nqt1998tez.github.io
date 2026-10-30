@@ -1,0 +1,7 @@
+{
+  "group": "activities",
+  "section": "Truyền công",
+  "label": "Nhận lời truyền công",
+  "tip": "Có người mời truyền công thì tự đồng ý.",
+  "kind": "toggle"
+}

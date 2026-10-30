@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Theo sau",
+  "label": "Khoảng cách xa nhất",
+  "tip": "Đội trưởng đi xa hơn chừng này thì bỏ đánh, đuổi theo. Phải lớn hơn khoảng cách gần nhất.",
+  "kind": "number"
+}

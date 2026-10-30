@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Theo sau",
+  "label": "Giữ vị trí khi đội trưởng trọng thương",
+  "tip": "Đội trưởng hết máu thì ở lại đánh tại chỗ, không chạy theo về thành.",
+  "kind": "toggle"
+}

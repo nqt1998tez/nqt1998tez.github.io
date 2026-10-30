@@ -1,0 +1,7 @@
+{
+  "group": "display",
+  "section": "Màn hình",
+  "label": "Hiện vòng phạm vi đánh",
+  "tip": "Vẽ vòng vàng quanh điểm đánh, đúng bằng vùng tự đánh tìm quái.",
+  "kind": "toggle"
+}

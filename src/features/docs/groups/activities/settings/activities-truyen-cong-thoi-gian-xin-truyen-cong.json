@@ -1,0 +1,7 @@
+{
+  "group": "activities",
+  "section": "Truyền công",
+  "label": "Thời gian xin truyền công",
+  "tip": "Chỉ xin trong khoảng giờ này.",
+  "kind": "time-range"
+}

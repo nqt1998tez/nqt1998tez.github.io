@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "PT cứng",
+  "label": "Tự triệu hồi thành viên",
+  "tip": "Khi là đội trưởng: thành viên ở map khác hoặc ở xa hơn 12 ô thì tự triệu hồi về, 20 giây một lần.",
+  "kind": "toggle"
+}

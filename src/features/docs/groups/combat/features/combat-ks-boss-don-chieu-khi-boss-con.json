@@ -1,0 +1,7 @@
+{
+  "group": "combat",
+  "section": "KS Boss",
+  "label": "Dồn chiêu khi boss còn",
+  "tip": "Ước tính theo tốc độ tụt máu 1,5 giây gần nhất; tới mức này trước ngưỡng % thì dồn luôn. 0 = chỉ theo ngưỡng %.",
+  "kind": "number"
+}

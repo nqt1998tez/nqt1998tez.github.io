@@ -1,0 +1,7 @@
+{
+  "group": "combat",
+  "section": "Thứ tự chiêu",
+  "label": "Khi luyện công",
+  "tip": "Chỉ dùng khi đang Luyện công, không đổi thiết lập chiêu của game. Kéo để đổi thứ tự, bỏ tick thì không dùng chiêu đó.",
+  "kind": "skill-order"
+}

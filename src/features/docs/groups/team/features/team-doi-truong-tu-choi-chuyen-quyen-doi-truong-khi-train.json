@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Đội trưởng",
+  "label": "Từ chối chuyển quyền đội trưởng khi train",
+  "tip": "Khi là đội trưởng và Agent Auto đang chạy: ai xin làm đội trưởng cũng tự từ chối (game để 20 giây là tự đồng ý). Không dùng trong PT cứng.",
+  "kind": "toggle"
+}

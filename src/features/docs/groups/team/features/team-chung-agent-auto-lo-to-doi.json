@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Chung",
+  "label": "Agent Auto lo tổ đội",
+  "tip": "Tắt: Agent Auto không tự kéo về đội, không tự mời, duyệt, xin vào hay kick. Nút Lập / Xóa pt cứng vẫn bấm được. Không liên quan ô \\",
+  "kind": "toggle"
+}

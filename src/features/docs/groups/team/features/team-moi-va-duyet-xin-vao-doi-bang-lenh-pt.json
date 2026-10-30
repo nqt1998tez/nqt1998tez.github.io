@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Mời và duyệt",
+  "label": "Xin vào đội bằng lệnh /pt",
+  "tip": "Khi là thành viên PT cứng mà đang ngoài đội: nhắn mật /pt cho đội trưởng (đội trưởng dùng SmartPK sẽ mời vào). Nhận /vaopt thì tự nhận lời mời.",
+  "kind": "toggle"
+}

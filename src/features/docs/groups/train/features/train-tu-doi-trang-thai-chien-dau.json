@@ -1,0 +1,8 @@
+{
+  "id": "train-tu-doi-trang-thai-chien-dau",
+  "group": "train",
+  "section": "Trạng thái chiến đấu",
+  "label": "Tự đổi trạng thái chiến đấu",
+  "tip": "Giữ chế độ này mỗi khi Agent Auto đang chạy, cả lúc train lẫn làm hoạt động. Bấm Dừng thì để nguyên. Map ép chế độ thì bỏ qua.",
+  "kind": "choice"
+}

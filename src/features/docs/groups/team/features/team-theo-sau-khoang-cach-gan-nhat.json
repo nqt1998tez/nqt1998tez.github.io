@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Theo sau",
+  "label": "Khoảng cách gần nhất",
+  "tip": "Đi theo tới khi còn cách đội trưởng chừng này thì dừng. 1 ô = một ô trên bản đồ nhỏ.",
+  "kind": "number"
+}

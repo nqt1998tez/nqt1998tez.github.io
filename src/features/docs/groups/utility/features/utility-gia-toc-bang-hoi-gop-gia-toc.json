@@ -1,0 +1,7 @@
+{
+  "group": "utility",
+  "section": "Gia Tộc / Bang Hội",
+  "label": "Góp gia tộc",
+  "tip": "Số lượt tự góp gia tộc mỗi ngày (0 = tắt). Góp bằng Nguyên Bảo: lượt 1–5 10 NB, lượt 6–10 20 NB.",
+  "kind": "number"
+}

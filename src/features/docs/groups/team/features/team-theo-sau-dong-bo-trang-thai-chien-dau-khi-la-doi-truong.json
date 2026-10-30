@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Theo sau",
+  "label": "Đồng bộ trạng thái chiến đấu khi là đội trưởng",
+  "tip": "Khi là đội trưởng PT cứng: đổi trạng thái chiến đấu thì cả đội đổi theo.",
+  "kind": "toggle"
+}

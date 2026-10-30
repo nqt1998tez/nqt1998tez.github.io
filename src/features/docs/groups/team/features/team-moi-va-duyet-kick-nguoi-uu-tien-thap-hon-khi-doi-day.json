@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Mời và duyệt",
+  "label": "Kick người ưu tiên thấp hơn khi đội đầy",
+  "tip": "Khi là đội trưởng, đội đủ 4 mà có người ưu tiên cao hơn xin vào hoặc nhắn /pt: kick người ưu tiên thấp nhất. Thứ tự: Đội trưởng > PT cứng > Cùng bang > Hảo hữu > người khác.",
+  "kind": "toggle"
+}

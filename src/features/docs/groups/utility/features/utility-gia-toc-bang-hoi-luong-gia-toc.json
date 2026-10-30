@@ -1,0 +1,7 @@
+{
+  "group": "utility",
+  "section": "Gia Tộc / Bang Hội",
+  "label": "Lương gia tộc",
+  "tip": "Tự nhận lương gia tộc tuần trước.",
+  "kind": "toggle"
+}

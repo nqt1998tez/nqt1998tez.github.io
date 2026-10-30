@@ -1,0 +1,7 @@
+{
+  "group": "utility",
+  "section": "Thu thập",
+  "label": "Hiệp Nghĩa",
+  "tip": "Đủ 10 lượt quay (mỗi 30 quái một lượt) thì tự quay, đủ mốc số lần quay trong ngày thì tự nhận quà. Không tốn gì.",
+  "kind": "toggle"
+}

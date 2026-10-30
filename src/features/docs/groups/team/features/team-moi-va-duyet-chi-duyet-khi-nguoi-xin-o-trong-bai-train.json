@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Mời và duyệt",
+  "label": "Chỉ duyệt khi người xin ở trong bãi train",
+  "tip": "Người xin phải cùng map và cách bạn không quá 15 ô.",
+  "kind": "toggle"
+}

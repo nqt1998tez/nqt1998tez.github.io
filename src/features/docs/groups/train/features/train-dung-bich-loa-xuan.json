@@ -1,0 +1,8 @@
+{
+  "id": "train-dung-bich-loa-xuan",
+  "group": "train",
+  "section": "Khi đủ {v} lửa trại",
+  "label": "Dùng Bích Loa Xuân",
+  "tip": "Cho game tự uống Bích Loa Xuân; thiếu lửa trại thì thôi.",
+  "kind": "toggle"
+}

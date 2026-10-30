@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Mời và duyệt",
+  "label": "Tự động mời đội",
+  "tip": "Khi đang giữ đội (hoặc chưa có đội) và đội chưa đủ 4: tự mời người chơi đang thấy được, 5 giây mời một người, mời lại cùng một người sau 60 giây. Thành viên PT cứng không tự mời.",
+  "kind": "choice"
+}

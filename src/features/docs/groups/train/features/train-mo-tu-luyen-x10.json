@@ -1,0 +1,8 @@
+{
+  "id": "train-mo-tu-luyen-x10",
+  "group": "train",
+  "section": "Khi đủ {v} lửa trại",
+  "label": "Mở Tu Luyện x10",
+  "tip": "Mở Tu Luyện x10. Thiếu lửa trại 5 giây thì tạm dừng. Hết giờ thì dùng Tu Luyện Đơn.",
+  "kind": "toggle"
+}

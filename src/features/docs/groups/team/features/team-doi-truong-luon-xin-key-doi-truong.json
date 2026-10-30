@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "Đội trưởng",
+  "label": "Luôn xin key đội trưởng",
+  "tip": "Khi là thành viên: khoảng 30 giây tự xin làm đội trưởng một lần. Cần thân mật với đội trưởng. Không dùng trong PT cứng.",
+  "kind": "toggle"
+}

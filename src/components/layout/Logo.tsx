@@ -1,0 +1,2 @@
+import {Swords} from "lucide-react";
+export default function Logo(){return <span className="flex items-center gap-3 font-bold tracking-wide"><span className="rounded-xl border border-gold/30 bg-gold/10 p-2 text-gold"><Swords size={22}/></span><span className="text-lg">AGENT <span className="text-gold">AUTO</span></span></span>}

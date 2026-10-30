@@ -1,0 +1,7 @@
+{
+  "group": "team",
+  "section": "PT cứng",
+  "label": "Luôn nhận lệnh điều khiển của đội trưởng",
+  "tip": "Khi là thành viên: đội trưởng chuyển bãi thì chạy thẳng tới bãi đó train, dù đang để chế độ train nào (trừ Theo sau đội trưởng).",
+  "kind": "toggle"
+}

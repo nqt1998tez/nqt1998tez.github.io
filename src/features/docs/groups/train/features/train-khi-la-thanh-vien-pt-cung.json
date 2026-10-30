@@ -1,0 +1,8 @@
+{
+  "id": "train-khi-la-thanh-vien-pt-cung",
+  "group": "train",
+  "section": "Chế độ train",
+  "label": "Khi là thành viên PT cứng",
+  "tip": "Đội trưởng báo bãi mới thì luôn chạy tới bãi đó (nếu bật Luôn nhận lệnh điều khiển của đội trưởng). Tự do: chạy bãi riêng. Theo sau đội trưởng: bám theo như nút Theo của game, đánh mục tiêu của đội trưởng (cách bám ở tab Tổ đội). Train nhiều bãi theo đội trưởng: chạy tới bãi đội trưởng đang đánh, đội trưởng đổi bãi thì đổi theo. Chuyển bãi khi đội trưởng triệu hồi: train bãi riêng, được triệu hồi thì sang chỗ đội trưởng và train ở đó.",
+  "kind": "choice"
+}
