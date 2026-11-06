@@ -2,7 +2,7 @@
 export default {
   content: ["./index.html", "./src/**/*.{ts,tsx}"],
   theme: {
-    screens: {sm:"640px",md:"768px",lg:"1024px",xl:"1280px"},
+    screens: {sm:"640px",md:"768px",lg:"1024px",xl:"1280px","2xl":"1400px"},
     extend: {
       fontFamily: {sans:["Be Vietnam Pro","system-ui","sans-serif"],mono:["ui-monospace","SFMono-Regular","monospace"]},
       fontSize: {
@@ -17,9 +17,19 @@ export default {
         "5xl":["3rem",{lineHeight:"1.14"}],
         "6xl":["3.75rem",{lineHeight:"1.1"}]
       },
-      colors:{background:"var(--color-bg)",card:"var(--color-surface)",gold:"var(--color-accent)",muted:"var(--color-muted)"},
+      colors:{
+        background:"var(--color-bg)",
+        deep:"var(--color-bg-deep)",
+        card:"var(--color-surface)",
+        surface2:"var(--color-surface-2)",
+        gold:"var(--color-accent)",
+        goldLight:"var(--color-accent-light)",
+        cyan:"var(--color-cyan)",
+        muted:"var(--color-muted)",
+        positive:"var(--color-positive)"
+      },
       borderRadius:{xl:"var(--radius-xl)"},
-      maxWidth:{"site":"var(--content-max)"}
+      maxWidth:{"site":"var(--content-max)","wide":"1440px"}
     }
   },
   plugins:[]

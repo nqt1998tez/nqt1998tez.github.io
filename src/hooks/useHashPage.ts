@@ -1,3 +1,3 @@
 import {useState} from "react";
 import type {Page} from "../data/guide/types";
-export function useHashPage():[Page,(p:Page)=>void]{const get=():Page=>{const p=location.hash.replace("#/","").split("/")[0];return (["home","docs","account","login"].includes(p)?p:"home") as Page};const [page,set]=useState<Page>(get);function change(p:Page){location.hash="/"+p;set(p);window.scrollTo({top:0,behavior:"smooth"})}return [page,change]}
+export function useHashPage():[Page,(p:Page)=>void]{const get=():Page=>{const p=location.hash.replace("#/","").split("/")[0];if(p==="home2")history.replaceState(null,"","#/home");return (["home","docs"].includes(p)?p:"home") as Page};const [page,set]=useState<Page>(get);function change(p:Page){location.hash="/"+p;set(p);window.scrollTo({top:0,behavior:"smooth"})}return [page,change]}
